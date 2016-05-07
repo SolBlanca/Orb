@@ -1,0 +1,19 @@
+{
+  "name": "sol-orb",
+  "version": "0.0.1",
+  "description": "Earth visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolBlanca/Orb.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SolBlanca/Orb/issues"
+  },
+  "homepage": "https://github.com/SolBlanca/Orb#readme"
+}
